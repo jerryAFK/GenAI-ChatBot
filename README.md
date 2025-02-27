@@ -1,7 +1,7 @@
-# 📄 PDF Chatbot using Groq API & Streamlit (Hugging Face Deployment)
+# 📄 PDF Chatbot using Groq API & Streamlit 
 
 ## 🚀 Overview
-This **PDF-based AI chatbot** allows users to upload PDFs and ask questions about the document's content. It extracts relevant information from PDFs and generates AI-powered responses using **Groq API (Llama 3 or Mixtral models)**. This chatbot is designed to run on **Hugging Face Spaces** using **Streamlit**.
+This **PDF-based AI chatbot** allows users to upload PDFs and ask questions about the document's content. It extracts relevant information from PDFs and generates AI-powered responses using **Groq API (Llama 3 or Mixtral models)**. This chatbot is designed to run on **Hugging Face Spaces** using **Streamlit**. 
 
 ## ✨ Features
 - 📂 **Upload PDFs** and extract text

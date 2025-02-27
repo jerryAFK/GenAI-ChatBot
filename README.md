@@ -15,7 +15,8 @@ This **PDF-based AI chatbot** allows users to upload PDFs and ask questions abou
 - **AI Models:** Llama 3 (8B & 70B), Mixtral-8x7B
 - **API:** Groq API
 
-
+## 📜 License  
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
 ## 🤝 Contributing
 Pull requests are welcome! If you find any issues or want to enhance the project, feel free to contribute.

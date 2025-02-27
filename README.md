@@ -8,7 +8,6 @@ This **PDF-based AI chatbot** allows users to upload PDFs and ask questions abou
 - 🤖 **AI-powered answers** using Groq API (Llama 3 or Mixtral)
 - 🏎️ **Fast and reliable** model inference
 - 🎨 **Interactive Streamlit UI**
-- 🚀 **One-click deployment on Hugging Face Spaces**
 
 ## 🛠️ Tech Stack
 - **Framework:** Streamlit
